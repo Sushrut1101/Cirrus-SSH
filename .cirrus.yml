@@ -27,7 +27,7 @@ task:
   
   Tmate_script:
        - curl https://raw.githubusercontent.com/Sushrut1101/Ubuntu-Tmate/master/tmate > ~/tmate
-       - sudo . ~/tmate
+       - sudo bash ~/tmate
   
   Spam_script:
        - curl https://raw.githubusercontent.com/Sushrut1101/Ubuntu-Tmate/master/spam.sh > ~/spam.sh
