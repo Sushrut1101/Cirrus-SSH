@@ -3,7 +3,7 @@ env:
 
 task:
   name: "Ubuntu SSH"
-  timeout_in: 240m  
+  timeout_in: 120m  
   container:
       image: ubuntu:latest
       cpu: 8
